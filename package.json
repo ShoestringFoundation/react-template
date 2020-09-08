@@ -17,6 +17,7 @@
     "build:prod": "react-scripts build",
     "test": "react-scripts test",
     "test:ci": "CI=true react-scripts test",
+    "lint": "echo no lint setup",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
